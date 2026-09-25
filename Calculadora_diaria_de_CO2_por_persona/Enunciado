@@ -1,0 +1,14 @@
+1.- Calculadora diaria de CO₂ por persona
+Se desea implementar un programa en Java que funcione como una calculadora de huella de carbono diaria para un grupo de personas. El programa debe pedir datos a los usuarios y registrar sus actividades para calcular las emisiones de CO₂.
+Al inicio, el programa debe preguntar cuántas personas se van a registrar.
+Para cada persona se mostrará un menú con distintas actividades que pueden generar emisiones de CO₂. El menú debe repetirse hasta que la persona elija la opción de finalizar. Cada actividad tendrá un consumo de CO₂ diferente y se deberán registrar los datos que correspondan.
+El menú de actividades será el siguiente:
+1.	Transporte en coche → Se pide cuántos km recorrió (0,21 kg CO₂ por km)
+2.	Transporte en autobús → Se pide cuántos km recorrió (0,10 kg CO₂ por km)
+3.	Transporte en bicicleta → Se pide cuántos km recorrió (0 kg CO₂ por km)
+4.	Uso de plancha → Se pregunta si la usó (1 = sí, 0 = no). Si la respuesta es sí, se pide cuántas horas se utilizó (0,70 kg CO₂ por hora)
+5.	Uso del ordenador → Se pide cuántas horas lo utilizó (0,08 kg CO₂ por hora)
+6.	Uso del móvil → Se pide cuántas horas lo utilizó (0,02 kg CO₂ por hora)
+7.	Finalizar actividades del día
+El programa debe validar que no se introduzcan valores negativos ni respuestas incorrectas. Si se introduce un valor no válido, se mostrará un mensaje de error y se volverá a pedir el dato.
+Al finalizar el registro de cada persona se mostrará el total de CO₂ emitido ese día. Al terminar con todas las personas se mostrará el total de CO₂ emitido por el grupo completo.

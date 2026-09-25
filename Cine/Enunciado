@@ -1,0 +1,16 @@
+4.- Cine
+Realizar un programa que registre la venta de entradas de un cine durante una sesión.
+El programa preguntará cuántos clientes se van a registrar.
+Para cada cliente se introducirá el número de entradas de adulto y el número de entradas infantiles que compra.
+La entrada de adulto cuesta 9 euros y la infantil 6 euros.
+Si un cliente compra 5 o más entradas en total, se le aplicará un descuento del 10 % sobre el precio de las entradas.
+El programa debe mostrar para cada cliente:
+•	Número de entradas de adulto.
+•	Número de entradas infantiles.
+•	Número total de entradas.
+•	Precio a pagar.
+Al finalizar todos los clientes, el programa debe mostrar:
+•	El dinero total recaudado.
+•	El número total de entradas de adulto.
+•	El número total de entradas infantiles.
+•	El cliente que compró más entradas.

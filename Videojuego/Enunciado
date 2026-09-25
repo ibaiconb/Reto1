@@ -1,0 +1,19 @@
+6.- Videojuego
+Realizar un programa que registre las partidas jugadas por varios jugadores de un videojuego.
+El programa preguntará cuántos jugadores se van a registrar.
+Para cada jugador se introducirá el número de partidas que ha jugado. Para cada partida se introducirá:
+8.	Los puntos conseguidos.
+9.	El número de enemigos derrotados.
+El programa debe calcular para cada jugador:
+10.	La puntuación total obtenida.
+11.	El número total de enemigos derrotados.
+12.	La puntuación media por partida.
+Si en una partida consigue más de 1.000 puntos, recibirá un bonus de 100 puntos.
+El programa debe mostrar al finalizar las partidas de cada jugador:
+13.	Puntuación total, incluyendo los bonus.
+14.	Enemigos derrotados.
+15.	Puntuación media por partida.
+Al finalizar todos los jugadores, el programa debe mostrar:
+16.	El jugador con mayor puntuación.
+17.	La puntuación total conseguida entre todos los jugadores.
+18.	El número total de enemigos derrotados.
